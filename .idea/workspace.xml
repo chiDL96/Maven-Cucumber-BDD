@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b14b72d-eac5-4948-972a-b51eca5732e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/commons/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/commons/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/commons/GlobalConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/commons/PageGeneratorManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/CommonPageObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/HomePageObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/LoginPageObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/RegisterPageObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageUI/CommonPageUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageUI/HomePageUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageUI/LoginPageUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageUI/RegisterPageUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/bankGuru/cucumberOptions/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/bankGuru/cucumberOptions/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/bankGuru/features/verifyBankGuru.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/bankGuru/stepDefinitions/CommonPageSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/bankGuru/stepDefinitions/HomePageSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/bankGuru/stepDefinitions/LoginPageSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/bankGuru/stepDefinitions/RegisterPageSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/facebook/cucumberOptions/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/facebook/features/verifyFacebook.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/facebook/stepDefinitions/FacebookSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +26,10 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="2RSjWRmqUx2lPcWOo3v7eVsBAtb" />
@@ -60,18 +38,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/chidl/Desktop/Study/Maven-Cucumber-BDD/src/test/java/bankGuru",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.74453396",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/chidl/Desktop/Study/Maven-Cucumber-BDD/src/test/java/bankGuru&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.74453396&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/java/bankGuru" />
@@ -160,6 +138,17 @@
       <option name="PACKAGE_NAME" value="cucumberOptions" />
       <option name="MAIN_CLASS_NAME" value="cucumberOptions.TestRunner" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
